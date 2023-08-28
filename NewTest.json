@@ -1,10 +1,12 @@
 {
   "Data":[
     {
-      "Name":"AB"
+      "Email":"A@gmail.com",
+      "Password":"123456"
     },
     {
-      "Name":"AB1"
+      "Email":"B@gmail.com",
+      "Password":"123456"
     }
   ]
 }
