@@ -1,12 +1,10 @@
 {
   "UserData":[
     {
-      "Email": "A@gmail.com",
-      "Password":"123456"
+      "Email": "A@gmail.com"
     },
     {
-      "Email": "B@gmail.com",
-      "Password":"123456"
+      "Email": "B@gmail.com"
     }
   ]
 }
